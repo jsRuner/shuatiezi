@@ -1,0 +1,27 @@
+今天直播 如何自动发帖子。
+
+稍等。我先找找目标论坛
+
+初步实现 发布帖子。
+
+刚才发的帖子 属于 谈天说地
+
+http://bbs.luanren.com/forum.php?mod=forumdisplay&fid=207&page=1
+
+http://bbs.luanren.com/forum.php?mod=post&action=newthread&fid=207&extra=&topicsubmit=yes
+
+分析以后得出。修改fid参数，即可发布到其他板块。
+
+发帖已经完成。
+
+我们现在去尝试QQ空间的问题。
+
+尝试读取QQ空间的数据。
+
+
+
+
+
+
+
+
